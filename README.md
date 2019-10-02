@@ -11,5 +11,5 @@ Using data from Inside Airbnb, a publicly sourced Airbnb database, I will hope t
 
 [EDA Code](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/Capstone%20EDA.ipynb)
 
-[Evaluation and Model scores](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/Technical%20Report.ipynb)
+[Evaluation and Model Scores](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/Technical%20Report.ipynb)
 
