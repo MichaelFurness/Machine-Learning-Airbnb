@@ -6,3 +6,7 @@ Since its launch in 2008 Airbnb has transformed from an aspiring start to a worl
 Of the back of this change organisation have now formed that will look after people's listings managing everything from uploading the property, cleaning and managing guest. As the market becomes more competstive what is the right price? What features pushes up the price? Is the property priced to high? All these questions must be answered for companies and landlords to be competative and successful in this changing landscape.
 
 Using data from Inside Airbnb, a publicly sourced Airbnb database, I will hope to answer these questsions and highlight the main factors that effect the listing price.
+
+[Cleaning Code](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/AirBnB%20Completed%20cleaning%20code.ipynb)
+EDA Code
+Evaluation and Model scores
