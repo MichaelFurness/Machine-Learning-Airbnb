@@ -8,5 +8,8 @@ Of the back of this change organisation have now formed that will look after peo
 Using data from Inside Airbnb, a publicly sourced Airbnb database, I will hope to answer these questsions and highlight the main factors that effect the listing price.
 
 [Cleaning Code](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/AirBnB%20Completed%20cleaning%20code.ipynb)
-EDA Code
-Evaluation and Model scores
+
+[EDA Code](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/Capstone%20EDA.ipynb)
+
+[Evaluation and Model scores](https://github.com/MichaelFurness/Airbnb-Capstone/blob/master/Technical%20Report.ipynb)
+
